@@ -7,7 +7,7 @@
 <div align="center">
   <a href="https://github.com/cc13985/playte"></a>
 
-<h3 align="center">FireboyWatergirl</h3>
+<h3 align="center">playte</h3>
 
   <p align="center">
     <a href="https://github.com/cc13985/playte">playte</a> is an app that uses a machine learning model to classify ingredients and identify possible recipes from a training set of 750+ images.
@@ -46,8 +46,10 @@ This project was developed during the Kode With Klossy Artificial Intelligence &
 
 ### Built With
 
-* [![JavaScript][JS.js]][JS-url]
-* [![HTML][HTML.com]][HTML-url]
+* CreateML
+* Swift
+* SwiftUI
+* XCode
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -72,11 +74,10 @@ To get a local copy up and running follow these simple example steps.
 <!-- ROADMAP -->
 ## Roadmap
 
-- Added sprite, background, and collision blocks
-- Added collision detection and sprite animations
-- Added doors and implemented different levels
-
-See the [open issues](https://github.com/IreneL7/FireboyWatergirl/issues) for a full list of proposed features (and known issues).
+- Created and gathered images using FreeForm
+- Trained model in CreateML
+- Developed app in Swift and XCode
+See the [open issues](https://github.com/cc13985/playte/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -99,12 +100,6 @@ Don't forget to give the project a star! Thanks again!
 <!-- ACKNOWLEDGMENTS -->
 ## Acknowledgments
 
-* [Technica](https://gotechnica.org/)
+* [Kode With Klossy](https://www.kodewithklossy.com/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
-
-<!-- MARKDOWN LINKS & IMAGES -->
-[JS.js]: https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E
-[JS-url]: https://JavaScript.com/
-[HTML.com]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
-[HTML-url]: https://html.com/
