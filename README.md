@@ -77,6 +77,7 @@ To get a local copy up and running follow these simple example steps.
 - Created and gathered images using FreeForm
 - Trained model in CreateML
 - Developed app in Swift and XCode
+
 See the [open issues](https://github.com/cc13985/playte/issues) for a full list of proposed features (and known issues).
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
