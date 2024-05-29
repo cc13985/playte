@@ -29,23 +29,32 @@
 </details>
 
 <!-- ABOUT THE PROJECT -->
-## About The Project
+## About The Project 📘
 
 This project was developed during the Kode With Klossy Artificial Intelligence & Machine Learning curriculum, which uses a model trained in the CreateML framework that classifies images of food and ingredients to identify potential recipes that can be made. The interface was created using Swift and the SwiftUI framework in XCode.
 
+<p align="center">
+  <img src="img/logo.png" alt="Logo">
+</p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
-## Built With
+## Built With ⚒️
 
 * CreateML
 * Swift
 * SwiftUI
 * XCode
 
+<p align="center">
+  <img src="img/process.png" alt="Process">
+  <img src="img/eggsandwich.png" alt="Demo">
+</p>
+
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ROADMAP -->
-## Roadmap
+## Roadmap 🗺️
 
 - Created and gathered images using FreeForm
 - Trained model in CreateML
@@ -56,7 +65,7 @@ See the [open issues](https://github.com/cc13985/playte/issues) for a full list 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
 <!-- ACKNOWLEDGMENTS -->
-## Acknowledgments
+## Acknowledgments 💙
 
 * [Kode With Klossy](https://www.kodewithklossy.com/)
 
