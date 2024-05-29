@@ -1,13 +1,11 @@
 <a name="readme-top"></a>
 
-# About
-
 <!-- PROJECT LOGO -->
 <br />
 <div align="center">
   <a href="https://github.com/cc13985/playte"></a>
 
-<h3 align="center">playte</h3>
+<h1 align="center">playte</h1>
 
   <p align="center">
     <a href="https://github.com/cc13985/playte">playte</a> is an app that uses a machine learning model to classify ingredients and identify possible recipes from a training set of 750+ images.
